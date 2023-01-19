@@ -7,4 +7,4 @@ workers_dev = true
 [vars]
 AIRTABLE_BASE_ID = "appqTu5uObO0ZC4cZ"
 AIRTABLE_TABLE_NAME = "CheckLab"
-FORM_URL = "https://workers-airtable-form.pages.dev"
+FORM_URL = "https://bf1adbe8.workers-airtable-form-9io.pages.dev"
